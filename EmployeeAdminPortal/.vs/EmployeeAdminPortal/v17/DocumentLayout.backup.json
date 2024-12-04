@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\services\\interface\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\services\\interface\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\panic\\source\\repos\\employeeadminportal\\employeeadminportal\\migrations\\20241202133509_initial migration 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CF1ACD-5AEC-41CA-94DF-77192ED01D34}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\migrations\\20241202133509_initial migration 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\EmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeAdminPortal\\Models\\EmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:22:42.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:27:29.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABBwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:18:18.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeesService.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Services\\Interface\\IEmployeesService.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Services\\Interface\\IEmployeesService.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Services\\Interface\\IEmployeesService.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Services\\Interface\\IEmployeesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:06:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Services\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Services\\EmployeesService.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Services\\EmployeesService.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Services\\EmployeesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:52:11.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\ResultModel.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\ResultModel.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\ResultModel.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\ResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:03:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:04:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:59:08.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\UpdateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateCustomerDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\UpdateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:58:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:11:59.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:37:09.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241202133509_initial migration 1.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20241202133509_initial migration 1.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Migrations\\20241202133509_initial migration 1.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20241202133509_initial migration 1.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Migrations\\20241202133509_initial migration 1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:21:02.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\panic\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:48:29.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
